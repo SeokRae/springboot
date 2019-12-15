@@ -5,3 +5,4 @@
 /build/classes/java/main/
 /build/classes/java/test/
 src/test/resources/
+application-oauth.properties
