@@ -18,7 +18,7 @@ cache:
 script: "./gradlew clean build"
 
 before_deploy:
-  - zip -r springboot # EC2 프로젝트 폴더명
+  - zip -r springboot * # EC2 프로젝트 폴더명
   - mkdir -p deploy
   - mv springboot.zip deploy/springboot.zip
 
