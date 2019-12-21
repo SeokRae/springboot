@@ -40,6 +40,4 @@ public class IndexController {
         model.addAttribute("post", dto);
         return "posts-update";
     }
-
-
 }
