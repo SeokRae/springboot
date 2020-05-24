@@ -1,6 +1,49 @@
 # 스프링부트와 AWS로 혼자 구현하는 웹서비스
 
 ## Intellij Tools
+- General ShortCut
+
+| ShortCut | 설명 | 
+|:-------|:------|
+| ctrl + alt + s | 설정창(settings) 열기 |
+| ctrl + alt + shift + s | Project Structure 창 열기 |
+| ctrl + e | 최근 사용한 파일 목록 조회 |
+| ctrl + shift + a | 액션을 검색하여 실행 (설정 변경 및 단축키 확인) |
+| double shift | 파일, 클래스, 설정 등 키워드 관련 검색 |
+
+- Editor ShortCut
+
+| ShortCut | 설명 |
+|:-------|:------|
+|ctrl + f4 | 탭 닫기 | 
+|ctrl + space | 코드 완성 | 
+|alt + insert | 코드 생성 (constructor, getter, setter, override method) |
+|ctrl + o | override 메서드 확인 |
+|ctrl + i | implements method 확인 |
+|ctrl + q | document 확인 |
+|ctrl + d | copy line |
+|ctrl + y | delete line |
+|alt + shift + ↑ ↓ | 라인 단위로 옮기기 |
+|ctrl + shift + ↑ ↓ | 구문 안에서 라인 옮기기 |
+
+- Code View
+
+| ShortCut | 설명 |
+|:-------|:------|
+|ctrl + p | 인자 값 보기 (Parameter Info) | 
+|ctrl + shift + i | 코드 구현부 보기 (Quick Definition) | 
+|ctrl + ←→ | 단어별 이동 | 
+|ctrl + shift + ←→ | 단어별 선택 |
+
+- Focus
+
+| ShortCut | 설명 |
+|:-------|:------|  
+|ctrl + w | 포커스 범위 한 단계씩 늘리기 |
+|ctrl + shift + w | 포커스 범위 한 단계씩 줄이기 |
+|ctrl + alt + ←→ | 포커스 앞 / 뒤로 이동 |
+|double ctrl + ↑ ↓ | 멀티 포커스 |
+|F2 | 오류 라인 포커스 |
 
 ## Project Spec
 |Module|Version|Etc|
